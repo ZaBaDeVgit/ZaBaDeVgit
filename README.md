@@ -1,4 +1,4 @@
-# [[https://github.com/BalaZaStudio](https://raw.githubusercontent.com/BalaZaStudio/Imagenes/main/zabadev.ico?token=GHSAT0AAAAAACGFEH7P4YL7J5J444PKAABCZG3XFSQ) Hola, mi nombre es Juan Jose Zabala 🤘🙋
+# [![https://github.com/BalaZaStudio](https://raw.githubusercontent.com/BalaZaStudio/Imagenes/main/zabadev.ico?token=GHSAT0AAAAAACGFEH7P4YL7J5J444PKAABCZG3XFSQ)] Hola, mi nombre es Juan Jose Zabala 🤘🙋
 ### Funcionario ☛ Junior Full-Stack ☚ Apasionado IT
 
 ![https://github.com/mou](https://raw.githubofile.png)
