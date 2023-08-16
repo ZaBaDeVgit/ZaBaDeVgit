@@ -1,5 +1,17 @@
 # 💫 About Me:
-Apasionado profesional de la IT. Actualmente, me desempeño en el Ejército de Tierra. Mí carrera me ha permitido adquirir una amplia experiencia en la gestión de proyectos tecnológicos y en la dirección de equipos multidisciplinares.<br><br>Poseo un Grado Medio de Sistemas Microinformáticos y Redes. Además, estoy cursando la Doble titulación de Grado Superior de Aplicaciones Multiplataforma (DAM) y Grado Superior de Aplicaciones Web (DAW). <br><br>Como profesional, he desarrollado habilidades de relación pública, que me permiten establecer relaciones solidas, como duraderas y colaborar con otros profesionales para lograr resultados óptimos. La combinación de estos atributos con mis conocimientos técnicos en informática y marketing digital me capacita para aportar un valor significativo a cualquier organización.<br><br>Estoy particularmente interesado en el desarrollo de la inteligencia artificial , como aprender los diferentes lenguajes de programacion y el desarrollo web. Estoy seguro de que, con mi conjunto de habilidades y mi pasión por la tecnología, puedo hacer una contribución significativa a su organización. Espero tener la oportunidad de discutir cómo mis habilidades, experiencia, pasión por la IT, pueden contribuir a su equipos y proyectos.
+¡Hola a todos! Soy Juan Jose Zabala Rios, un apasionado funcionario público en España con una trayectoria de 22 años en la administración pública. A lo largo de mi carrera, he encontrado una profunda satisfacción en servir a la comunidad y contribuir al bienestar de todos.
+
+Mi amor por la tecnología y la programación me ha llevado a buscar nuevas oportunidades para crecer y aprender. Mi determinación por adentrarme en el mundo del desarrollo full stack refleja mi deseo constante de superar desafíos y alcanzar nuevos horizontes.
+
+Siempre he sido un ferviente defensor del aprendizaje continuo y me he embarcado en la emocionante travesía de expandir mis habilidades técnicas. Mi objetivo es absorber todo lo que pueda en el mundo de la programación y la tecnología, explorando nuevos frameworks y adquiriendo conocimientos profundos para mejorar mis habilidades y aumentar mi contribución en este campo en constante evolución.
+
+Me apasiona la idea de fusionar mi amplia experiencia en la administración pública con mi nueva pasión por la tecnología. Creo firmemente que la combinación de estas dos áreas puede dar lugar a soluciones innovadoras que impacten positivamente en la sociedad.
+
+Estoy ansioso por unirme a equipos dinámicos y colaborativos, donde pueda compartir mis conocimientos y aprender de otros apasionados de la tecnología. Mi objetivo último es no solo crecer y desarrollarme en mi propio viaje de aprendizaje, sino también aportar al mundo de la programación y la tecnología desde una perspectiva única y diversa.
+
+¡Estoy emocionado por las oportunidades que el futuro tiene reservadas y espero con ansias las posibilidades de aprendizaje y crecimiento que están por venir! Siempre estoy abierto a conexiones y conversaciones, así que no dudes en ponerte en contacto conmigo.
+
+Juntos podemos avanzar hacia un futuro tecnológico y lleno de posibilidades. ¡Hagamos que suceda!
 
 
 ## 🌐 Socials:
