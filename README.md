@@ -1,5 +1,5 @@
 <div style="text-align: center;">
-  <img src="https://github.com/BalaZaStudio/My-LogoS-Images/blob/main/Fondo%20Logo%20Taza.gif?raw=true" alt="Fondo Logo Taza" style="border-radius: 50%; width: 200px; height: 200px; object-fit: cover;">
+  <img src="https://github.com/BalaZaStudio/My-LogoS-Images/blob/main/Fondo%20Logo%20Taza.gif?raw=true" alt="Fondo Logo Taza" style="border-radius: 50%; width: 400px; height: 400px; object-fit: cover;">
 </div>
 
 
