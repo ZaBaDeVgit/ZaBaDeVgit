@@ -2,13 +2,6 @@
     <img src="https://github.com/BalaZaStudio/My-LogoS-Images/blob/main/LogoOct2024.gif?raw=true" alt="Logo Oct 2024" style="border-radius: 20px; box-shadow: 0 4px 30px rgba(0, 0, 0, 0.1); animation: glow 1.5s infinite alternate;">
 </div>
 
-<style>
-@keyframes glow {
-    0% { box-shadow: 0 0 5px #ff00ff, 0 0 10px #ff00ff, 0 0 15px #ff00ff; }
-    100% { box-shadow: 0 0 20px #00ff00, 0 0 30px #00ff00, 0 0 40px #00ff00; }
-}
-</style>
-
 <h1 align="center" style="color: #4a90e2;">💫 About Me</h1>
 <p align="center" style="max-width: 600px; font-size: 16px; line-height: 1.6; color: #555;">
 ¡Hola a todos! Soy <strong>ZaBaDeV</strong>, un funcionario público en España con más de 20 años de experiencia, apasionado por la tecnología y el desarrollo full stack. Busco combinar mi trayectoria en la administración pública con mis nuevas habilidades técnicas para crear soluciones innovadoras que beneficien a la sociedad. Estoy abierto a colaboraciones y conexiones en el ámbito tecnológico.
@@ -78,4 +71,13 @@
     <img src="https://img.shields.io/badge/Framer-black.svg?style=flat&logo=framer&logoColor=blue" alt="Framer" />
     <img src="https://img.shields.io/badge/Linux-FCC624.svg?style=flat&logo=linux&logoColor=black" alt="Linux" />
     <img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=flat&logo=firefox&logoColor=#FF7139" alt="Portfolio" />
+
+    ## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=ZaBaDeV&theme=onedark&no-frame=false&no-bg=true&margin-w=4)
+
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
+
+---
+[![](https://visitcount.itsvg.in/api?id=ZaBaDeV&icon=2&color=6)](https://visitcount.itsvg.in)
 </div>
