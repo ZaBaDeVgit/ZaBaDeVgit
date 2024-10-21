@@ -1,4 +1,5 @@
-![Fondo Logo Taza](https://github.com/BalaZaStudio/My-LogoS-Images/blob/main/Fondo%20Logo%20Taza.gif?raw=true)
+![Logo Oct 2024](https://github.com/BalaZaStudio/My-LogoS-Images/blob/main/LogoOct2024.gif?raw=true)
+
 
 
 
