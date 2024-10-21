@@ -1,4 +1,7 @@
-![Fondo Logo Taza](https://github.com/BalaZaStudio/My-LogoS-Images/blob/main/Fondo%20Logo%20Taza.gif?raw=true)
+<div style="text-align: center;">
+  <img src="https://github.com/BalaZaStudio/My-LogoS-Images/blob/main/Fondo%20Logo%20Taza.gif?raw=true" alt="Fondo Logo Taza" style="border-radius: 50%; width: 200px; height: 200px; object-fit: cover;">
+</div>
+
 
 # 💫 About Me:
 ¡Hola a todos! Soy ZaBaDeV, un funcionario público en España con más de 20 años de experiencia, apasionado por la tecnología y el desarrollo full stack. Busco combinar mi trayectoria en la administración pública con mis nuevas habilidades técnicas para crear soluciones innovadoras que beneficien a la sociedad. Estoy abierto a colaboraciones y conexiones en el ámbito tecnológico.
