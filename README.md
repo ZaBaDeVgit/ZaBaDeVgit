@@ -1,6 +1,7 @@
 [![Logo Oct 2024](https://github.com/BalaZaStudio/My-LogoS-Images/blob/main/miniatura_logo.jpg?raw=true)](https://github.com/BalaZaStudio/My-LogoS-Images/blob/main/LogoOct2024.mp4?raw=true)
 
 
+
 # 💫 About Me:
 ¡Hola a todos! Soy ZaBaDeV, un funcionario público en España con más de 20 años de experiencia, apasionado por la tecnología y el desarrollo full stack. Busco combinar mi trayectoria en la administración pública con mis nuevas habilidades técnicas para crear soluciones innovadoras que beneficien a la sociedad. Estoy abierto a colaboraciones y conexiones en el ámbito tecnológico.
 
