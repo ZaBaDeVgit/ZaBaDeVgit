@@ -1,5 +1,5 @@
 # 💫 About Me:
-¡Hola a todos! Soy Juan Jose Zabala Rios, un apasionado funcionario público en España con una trayectoria de 22 años en la administración pública. A lo largo de mi carrera, he encontrado una profunda satisfacción en servir a la comunidad y contribuir al bienestar de todos.
+¡Hola a todos! Soy Juan Jose Zabala Rios, un apasionado funcionario público en España con una trayectoria de mas de 20 años años en la administración pública. A lo largo de mi carrera, he encontrado una profunda satisfacción en servir a la comunidad y contribuir al bienestar de todos.
 
 Mi amor por la tecnología y la programación me ha llevado a buscar nuevas oportunidades para crecer y aprender. Mi determinación por adentrarme en el mundo del desarrollo full stack refleja mi deseo constante de superar desafíos y alcanzar nuevos horizontes.
 
