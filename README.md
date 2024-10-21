@@ -1,15 +1,5 @@
 # 💫 About Me:
-¡Hola a todos! Soy Juan Jose Zabala Rios, un apasionado funcionario público en España con una trayectoria de mas de 20 años años en la administración pública. A lo largo de mi carrera, he encontrado una profunda satisfacción en servir a la comunidad y contribuir al bienestar de todos.
-
-Mi amor por la tecnología y la programación me ha llevado a buscar nuevas oportunidades para crecer y aprender. Mi determinación por adentrarme en el mundo del desarrollo full stack refleja mi deseo constante de superar desafíos y alcanzar nuevos horizontes.
-
-Siempre he sido un ferviente defensor del aprendizaje continuo y me he embarcado en la emocionante travesía de expandir mis habilidades técnicas. Mi objetivo es absorber todo lo que pueda en el mundo de la programación y la tecnología, explorando nuevos frameworks y adquiriendo conocimientos profundos para mejorar mis habilidades y aumentar mi contribución en este campo en constante evolución.
-
-Me apasiona la idea de fusionar mi amplia experiencia en la administración pública con mi nueva pasión por la tecnología. Creo firmemente que la combinación de estas dos áreas puede dar lugar a soluciones innovadoras que impacten positivamente en la sociedad.
-
-Estoy ansioso por unirme a equipos dinámicos y colaborativos, donde pueda compartir mis conocimientos y aprender de otros apasionados de la tecnología. Mi objetivo último es no solo crecer y desarrollarme en mi propio viaje de aprendizaje, sino también aportar al mundo de la programación y la tecnología desde una perspectiva única y diversa.
-
-¡Estoy emocionado por las oportunidades que el futuro tiene reservadas y espero con ansias las posibilidades de aprendizaje y crecimiento que están por venir! Siempre estoy abierto a conexiones y conversaciones, así que no dudes en ponerte en contacto conmigo.
+¡Hola a todos! Soy ZaBaDeV, un funcionario público en España con más de 20 años de experiencia, apasionado por la tecnología y el desarrollo full stack. Busco combinar mi trayectoria en la administración pública con mis nuevas habilidades técnicas para crear soluciones innovadoras que beneficien a la sociedad. Estoy abierto a colaboraciones y conexiones en el ámbito tecnológico.
 
 Juntos podemos avanzar hacia un futuro tecnológico y lleno de posibilidades. ¡Hagamos que suceda!
 
