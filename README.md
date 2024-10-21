@@ -1,9 +1,5 @@
 ![Logo Oct 2024](https://github.com/BalaZaStudio/My-LogoS-Images/blob/main/LogoOct2024.gif?raw=true)
 
-
-
-
-
 # 💫 About Me:
 ¡Hola a todos! Soy ZaBaDeV, un funcionario público en España con más de 20 años de experiencia, apasionado por la tecnología y el desarrollo full stack. Busco combinar mi trayectoria en la administración pública con mis nuevas habilidades técnicas para crear soluciones innovadoras que beneficien a la sociedad. Estoy abierto a colaboraciones y conexiones en el ámbito tecnológico.
 
@@ -29,4 +25,3 @@ Juntos podemos avanzar hacia un futuro tecnológico y lleno de posibilidades. ¡
 ---
 [![](https://visitcount.itsvg.in/api?id=ZaBaDeV&icon=2&color=6)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
