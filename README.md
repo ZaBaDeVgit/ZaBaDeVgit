@@ -1,6 +1,4 @@
-[![Logo Oct 2024](https://github.com/BalaZaStudio/My-LogoS-Images/blob/main/miniatura_logo.jpg?raw=true)](https://github.com/BalaZaStudio/My-LogoS-Images/blob/01af960436c31d1da9b60d63a903645cda9cb5b8/LogoOct2024.mp4?raw=true)
-
-
+[![Logo Oct 2024](https://github.com/BalaZaStudio/My-LogoS-Images/blob/main/miniatura_logo.jpg?raw=true)](https://github.com/BalaZaStudio/My-LogoS-Images/blob/main/LogoOct2024.mp4?raw=true)
 
 
 # 💫 About Me:
