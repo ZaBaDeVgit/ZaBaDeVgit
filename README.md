@@ -22,6 +22,9 @@
     <a href="https://www.youtube.com/@ZaBaDev-pn2yq/featured">
         <img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white" alt="YouTube"/>
     </a>
+</div>
+
+<div align="center">
     [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/S6S515FZBZ)
 </div>
 
