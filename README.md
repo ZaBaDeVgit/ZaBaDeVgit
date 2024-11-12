@@ -1,6 +1,7 @@
 <div align="center">
     <img src="https://github.com/BalaZaStudio/My-LogoS-Images/blob/main/LogoOct2024.gif?raw=true" alt="Logo Oct 2024" style="border-radius: 20px; box-shadow: 0 4px 30px rgba(0, 0, 0, 0.1); animation: glow 1.5s infinite alternate;">
 </div>
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/S6S515FZBZ)
 
 <h1 align="center" style="color: #4a90e2;">💫 About Me</h1>
 <p align="center" style="max-width: 600px; font-size: 16px; line-height: 1.6; color: #555;">
