@@ -22,21 +22,15 @@
     <a href="https://www.youtube.com/@ZaBaDev-pn2yq/featured">
         <img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white" alt="YouTube"/>
     </a>
+    <div style="text-align: center;">
+    <a href="https://ko-fi.com/S6S515FZBZ">
+        <img src="https://ko-fi.com/img/githubbutton_sm.svg" alt="Ko-fi" />
+    </a>
+</div>
 </div>
 
-<div align="center">
-    <!-- Aquí comienza el script del widget Ko-fi -->
-    <script src='https://storage.ko-fi.com/cdn/scripts/overlay-widget.js'></script>
-    <script>
-      kofiWidgetOverlay.draw('zabadev', {
-        'type': 'floating-chat',
-        'floating-chat.donateButton.text': 'Support me',
-        'floating-chat.donateButton.background-color': '#00b9fe',
-        'floating-chat.donateButton.text-color': '#fff'
-      });
-    </script>
-    <!-- Aquí termina el script del widget Ko-fi -->
-</div>
+
+
 
 ---
 
