@@ -30,7 +30,7 @@
 <p>
  <img align="right" width="350" src="https://raw.githubusercontent.com/NotStark/NotStark/main/Assests/programmer.gif" alt="Coding gif" />
   
-¡Hola a todos! Soy **ZaBaDeV**, un funcionario público en España con más de 20 años de experiencia, apasionado por la tecnología y el desarrollo full stack. 
+¡Hola a todos! Soy **ZaBaDeV**, un funcionario público en España con más de 20 años de experiencia, formador de programación, apasionado por la tecnología y el desarrollo full stack. 
 
 ✌️ &emsp; Disfruto programando y compartiendo conocimiento <br/><br/>
 ❤️ &emsp; Me encanta escribir código y aprender nuevas tecnologías<br/><br/>
