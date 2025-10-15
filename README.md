@@ -16,8 +16,7 @@
 </p>
 
 <p align="center">
-    <b>ᴠɪsɪᴛᴏʀs</b><br>
-    <img align="middle" src="https://visitcount.itsvg.in/api?id=ZaBaDeV&icon=2&color=6" />
+    <img src="https://komarev.com/ghpvc/?username=ZaBaDeV&label=Profile%20views&color=0e75b6&style=flat" alt="ZaBaDeV" />
 </p>
 
 <br />
