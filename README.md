@@ -1,6 +1,6 @@
 <div align="center">
-    <img src="https://github.com/BalaZaStudio/My-LogoS-Images/blob/main/LogoOct2024.gif?raw=true" alt="Logo Oct 2024" style="border-radius: 20px; box-shadow: 0 4px 30px rgba(0, 0, 0, 0.1);">
-</div>
+    <img src="https://github.com/ZaBaDeVgit/My-Media-Resources/blob/main/Video%20Logo%20ZaBaDeV.mp4?raw=true" alt="Logo Oct 2024" style="border-radius: 20px; box-shadow: 0 4px 30px rgba(0, 0, 0, 0.1);">
+  </div>
 
 <h2 align="center">
   Welcome!
