@@ -1,13 +1,19 @@
-<div style="text-align:center; line-height:0; overflow:hidden;">
-  <video 
-    src="https://github.com/ZaBaDeVgit/My-Media-Resources/blob/main/LogoOct2024.gif?raw=true"
-    autoplay
-    loop
-    muted
-    playsinline
-    style="border-radius:20px; box-shadow:0 4px 30px rgba(0,0,0,0.1); width:100%; max-width:640px; height:auto; display:block; margin:0 auto; border:0; padding:0;"
-  ></video>
+<div style="text-align:center; overflow:hidden;">
+  <img 
+    src="https://raw.githubusercontent.com/ZaBaDeVgit/My-Media-Resources/main/LogoOct2024.gif"
+    alt="Logo"
+    style="
+      border-radius:20px;
+      box-shadow:0 4px 30px rgba(0,0,0,0.1);
+      width:100%;
+      max-width:640px;
+      height:auto;
+      display:block;
+      margin:0 auto;
+    "
+  />
 </div>
+
 
 
 <h2 align="center">
