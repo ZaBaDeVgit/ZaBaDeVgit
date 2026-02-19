@@ -1,7 +1,7 @@
 <div align="center">
-  <img src="https://raw.githubusercontent.com/ZaBaDeVgit/My-Media-Resources/main/LogoOct2024.gif" width="640">
-
+  <img src="./assets/LogoOct2024.gif" width="640">
 </div>
+
 
 
 
