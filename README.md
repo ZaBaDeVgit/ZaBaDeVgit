@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/ZaBaDeVgit/My-Media-Resources/main/LogoOct2024.gif" width="640" style="border-radius:20px;" />
+  <img src="https://raw.githubusercontent.com/ZaBaDeVgit/My-Media-Resources/main/LogoOct2024.gif" width="640">
 </p>
 
 
