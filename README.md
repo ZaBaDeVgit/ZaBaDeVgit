@@ -1,22 +1,11 @@
-<div align="center" style="line-height: 0;">
+<div style="text-align:center; line-height:0; overflow:hidden;">
   <video 
-    src="https://github.com/user-attachments/assets/6db95247-8317-42f4-8798-c0855b0b4e2a"
+    src="https://github-production-user-asset-6210df.s3.amazonaws.com/123003233/552200716-6db95247-8317-42f4-8798-c0855b0b4e2a.mp4"
     autoplay
     loop
     muted
     playsinline
-    style="
-      border-radius: 20px;
-      box-shadow: 0 4px 30px rgba(0,0,0,0.1);
-      max-width: 640px;
-      width: 100%;
-      display: block;
-      margin: 0;
-      padding: 0;
-      border: none;
-      outline: none;
-      background: transparent;
-    "
+    style="border-radius:20px; box-shadow:0 4px 30px rgba(0,0,0,0.1); width:100%; max-width:640px; height:auto; display:block; margin:0 auto; border:0; padding:0;"
   ></video>
 </div>
 
