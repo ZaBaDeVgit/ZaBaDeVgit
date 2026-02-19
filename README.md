@@ -1,11 +1,22 @@
-<div align="center">
+<div align="center" style="line-height: 0;">
   <video 
     src="https://github.com/user-attachments/assets/6db95247-8317-42f4-8798-c0855b0b4e2a"
     autoplay
     loop
     muted
     playsinline
-    style="border-radius: 20px; box-shadow: 0 4px 30px rgba(0,0,0,0.1); max-width: 640px; width: 100%; display: block;"
+    style="
+      border-radius: 20px;
+      box-shadow: 0 4px 30px rgba(0,0,0,0.1);
+      max-width: 640px;
+      width: 100%;
+      display: block;
+      margin: 0;
+      padding: 0;
+      border: none;
+      outline: none;
+      background: transparent;
+    "
   ></video>
 </div>
 
