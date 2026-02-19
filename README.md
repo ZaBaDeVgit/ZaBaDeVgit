@@ -1,5 +1,12 @@
 <div align="center">
-  <video ¨https://github.com/user-attachments/assets/6db95247-8317-42f4-8798-c0855b0b4e2a" controls width="640" style="border-radius: 20px; box-shadow: 0 4px 30px rgba(0, 0, 0, 0.1);"></video>
+  <video 
+    src="https://github.com/user-attachments/assets/6db95247-8317-42f4-8798-c0855b0b4e2a"
+    autoplay
+    loop
+    muted
+    playsinline
+    style="border-radius: 20px; box-shadow: 0 4px 30px rgba(0,0,0,0.1); max-width: 640px; width: 100%; display: block;"
+  ></video>
 </div>
 
 
