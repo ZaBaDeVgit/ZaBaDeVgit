@@ -1,6 +1,6 @@
 <div align="center">
-    <img src="https://github.com/ZaBaDeVgit/My-Media-Resources/blob/main/Video%20Logo%20ZaBaDeV.mp4?raw=true" alt="Logo Oct 2024" style="border-radius: 20px; box-shadow: 0 4px 30px rgba(0, 0, 0, 0.1);">
-  </div>
+  <video src="https://github.com/user-attachments/assets/830440ad-b96d-4e35-af16-72d204f5b839" controls width="640" style="border-radius: 20px; box-shadow: 0 4px 30px rgba(0, 0, 0, 0.1);"></video>
+</div>
 
 <h2 align="center">
   Welcome!
