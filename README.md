@@ -1,6 +1,6 @@
 <div style="text-align:center; line-height:0; overflow:hidden;">
   <video 
-    src="https://github-production-user-asset-6210df.s3.amazonaws.com/123003233/552200716-6db95247-8317-42f4-8798-c0855b0b4e2a.mp4"
+    src="https://github.com/ZaBaDeVgit/My-Media-Resources/blob/main/LogoOct2024.gif?raw=true"
     autoplay
     loop
     muted
