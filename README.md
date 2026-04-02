@@ -172,7 +172,7 @@
 
 <h2 align="center">🏆 GitHub Trophies</h2>
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ZaBaDeV&theme=onedark&no-frame=false&no-bg=true&margin-w=4&row=2&column=4" alt="ZaBaDeV Trophies" />
+
 </p>
 
 <p align="center">
