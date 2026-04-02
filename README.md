@@ -26,9 +26,7 @@
   <img src="https://img.shields.io/github/followers/ZaBaDeV?label=Followers&style=for-the-badge&color=00b8ff&logo=github&logoColor=white" />
 </p>
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/typewriter?color=gradient&fontColor=00ff88&fontSize=110&height=110&text=Building%20the%20future%20one%20code%20at%20a%20time&width=100%25&font=monospaced&weight=900" />
-</p>
+
 
 
 
