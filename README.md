@@ -211,7 +211,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Thanks%20for%20visiting!;Let's%20code%20together!;See%20you%20next%20time!;Keep%20pushing%20the%20limits!&center=true&width=520&height=50&font=monospaced&color=00ff88&background=0D1117&weight=700" />
+
 </p>
 
 <p align="center">Made with ❤️ by ZaBaDeV</p>
