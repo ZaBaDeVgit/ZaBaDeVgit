@@ -1,5 +1,10 @@
 <div align="center">
   <img src="./assets/LogoOct2024.gif" width="640">
+  <!-- Animated border effect -->
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ZaBaDeV/ZaBaDeV/output/github-contribution-grid-snake-dark.svg">
+    <img src="https://raw.githubusercontent.com/ZaBaDeV/ZaBaDeV/output/github-contribution-grid-snake.svg" width="100%">
+  </picture>
 </div>
 
 
@@ -16,16 +21,26 @@
 </h3>
 
 <p align="center">
-  <a href="https://github.com/ZaBaDeV"><img src="https://readme-typing-svg.herokuapp.com/?lines=Full%20Stack%20Developer;Public%20Servant%20in%20Spain;20+%20Years%20Experience;Always%20learning%20new%20things&center=true&width=450&height=45"></a>
+  <a href="https://github.com/ZaBaDeV"><img src="https://readme-typing-svg.herokuapp.com/?lines=Full%20Stack%20Developer;Public%20Servant%20in%20Spain;20+%20Years%20Experience;Always%20learning%20new%20things&center=true&width=450&height=45&font=monospaced&color=00ff00&center=true"></a>
 </p>
 
+<!-- Animated badge with wave effect -->
 <p align="center">
     <img src="https://komarev.com/ghpvc/?username=ZaBaDeV&label=Profile%20views&color=0e75b6&style=flat" alt="ZaBaDeV" />
+    <img src="https://badges.peopzop.com/totalLines/ZaBaDeV.svg?theme=dark&label=Lines%20Written&width=200" />
+    <img src="https://badges.peopzop.com/tokens/ZaBaDeV.svg?theme=dark&label=Tokens%20Used&width=200" />
+</p>
+
+<!-- Animated decorative line -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/typewriter?color=auto&fontColor=FFFFFF&fontSize=100&height=1&text=Building%20the%20future%20one%20code%20at%20a%20time&width=100%25&font=monospaced" />
 </p>
 
 <br />
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
+<!-- Animated wave divider -->
+<img src="https://raw.githubusercontent.com/ZaBaDeV/ZaBaDeV/refs/heads/master/assets/wave.svg" width="100%" height="100" viewBox="0 0 1200 120" preserveAspectRatio="none" fill="#FFFFFF">
+<br>
 
 <!-- About Section -->
 # 💫 About me
@@ -44,6 +59,9 @@
 
 <br/>
 <br/>
+
+<!-- Dynamic quote with random thoughts -->
+> 🌟 *"El código es poesía, y yo soy el poeta que escribe en 20+ lenguajes"* — ZaBaDeV
 
 <p align="center" style="font-size: 18px; color: #2c3e50;">
 <strong>¡Juntos podemos avanzar hacia un futuro tecnológico y lleno de posibilidades!</strong>
@@ -66,9 +84,19 @@
     <a href="https://ko-fi.com/S6S515FZBZ">
         <img src="https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white" alt="Ko-fi" />
     </a>
+    <!-- New: Support badge -->
+    <a href="https://www.buymeacoffee.com/zabadev">
+        <img src="https://img.shields.io/badge/Buy%20Me%20A%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" alt="Buy Me a Coffee" />
+    </a>
+    <!-- New: Discord -->
+    <a href="https://discord.gg/zabadev">
+        <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" />
+    </a>
 </p>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
+<!-- Animated divider -->
+<img src="https://raw.githubusercontent.com/ZaBaDeV/ZaBaDeV/refs/heads/master/assets/divider.png" width="100%">
+<br>
 
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Tech Stack</b>
 
@@ -148,7 +176,9 @@
 
 <br>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
+<!-- Animated divider -->
+<img src="https://raw.githubusercontent.com/ZaBaDeV/ZaBaDeV/refs/heads/master/assets/divider.png" width="100%">
+<br>
 
 ## 🏆 GitHub Trophies
 
@@ -156,7 +186,14 @@
   <img src="https://github-profile-trophy.vercel.app/?username=ZaBaDeV&theme=onedark&no-frame=false&no-bg=true&margin-w=4" alt="ZaBaDeV Trophies" />
 </p>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
+<!-- New: Streak and activity section -->
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ZaBaDeV&bg_color=0d1117&color=58a6ff&line=58a6ff&point=ffffff&area=true&hide_border=false&custom_title=Contribution%20Graph" alt="Activity Graph" />
+</p>
+
+<!-- Animated divider -->
+<img src="https://raw.githubusercontent.com/ZaBaDeV/ZaBaDeV/refs/heads/master/assets/divider.png" width="100%">
+<br>
 
 ## 📊 GitHub Stats
 
@@ -172,7 +209,15 @@
   </a>
 </p>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
+<!-- New: Extra stat cards -->
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ZaBaDeV&theme=radical" alt="Stats"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ZaBaDeV&theme=radical&backgroundColor=0d1117" alt="Productive Time"/>
+</p>
+
+<!-- Animated divider -->
+<img src="https://raw.githubusercontent.com/ZaBaDeV/ZaBaDeV/refs/heads/master/assets/divider.png" width="100%">
+<br>
 
 <a> 
     <a href="https://github.com/ZaBaDeV"><img alt="ZaBaDeV's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=ZaBaDeV&show_icons=true&count_private=true&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/></a>
@@ -180,7 +225,16 @@
   <br/>
 </a>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
+<!-- New: WakaTime Stats (requires API key) -->
+<!-- Sign up at https://wakatime.com and add your username below -->
+<!-- <p align="center">
+  <a href="https://github.com/ZaBaDeV">
+    <img src="https://github-readme-stats.vercel.app/api/wakatime?username=YOUR_WAKATIME_USERNAME&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="100%"/></a>
+</p> -->
+
+<!-- Animated divider -->
+<img src="https://raw.githubusercontent.com/ZaBaDeV/ZaBaDeV/refs/heads/master/assets/divider.png" width="100%">
+<br>
 
 ## ✍️ Random Dev Quote
 
@@ -190,6 +244,22 @@
 
 ---
 
+<!-- New: Footer with animated stars -->
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=ZaBaDeV&label=thanks%20for%20visiting&color=ff6b6b&style=flat" />
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Thanks%20for%20visiting!;Let's%20code%20together!;See%20you%20next%20time!&center=true&width=400&height=40&font=monospaced&color=00ff00" />
+</p>
+
+---
+
 <p align="center">
 Made with ❤️ by ZaBaDeV
+</p>
+
+<!-- Animated signature -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/heart?color=auto&fontSize=30&height=60&text=Keep%20Coding%20Stay%20Awesome&width=100%25&font=yusei" />
 </p>
