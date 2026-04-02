@@ -217,5 +217,5 @@
 <p align="center">Made with ❤️ by ZaBaDeV</p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/heart?color=gradient&fontSize=34&height=80&text=Keep%20Coding%20Stay%20Awesome&width=100%25&font=yusei" />
+
 </p>
