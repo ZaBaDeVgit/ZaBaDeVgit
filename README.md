@@ -1,205 +1,219 @@
 <div align="center">
-  <img src="./assets/LogoOct2024.gif" width="640">
-  <!-- Animated border effect -->
+  <!-- Enhanced animated logo with glow effect -->
+  <img src="./assets/LogoOct2024.gif" width="680" style="filter: drop-shadow(0 0 25px #00ff88);">
+  
+  <!-- Super animated border effect + dual theme snake -->
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ZaBaDeV/ZaBaDeV/output/github-contribution-grid-snake-dark.svg">
-    <img src="https://raw.githubusercontent.com/ZaBaDeV/ZaBaDeV/output/github-contribution-grid-snake.svg" width="100%">
+    <img src="https://raw.githubusercontent.com/ZaBaDeV/ZaBaDeV/output/github-contribution-grid-snake.svg" width="100%" style="filter: drop-shadow(0 0 15px #00ff88);">
   </picture>
+
+  <!-- Extra futuristic line -->
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColor=00ff88,00b8ff&height=4&width=100%&text=&section=header" width="100%">
 </div>
 
-
-
-
+<h1 align="center">
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="42"> 
+  Welcome to the Future of Code 
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="42">
+</h1>
 
 <h2 align="center">
-  Welcome!
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
+  I'm <span style="background: linear-gradient(90deg, #00ff88, #00b8ff); -webkit-background-clip: text; -webkit-text-fill-color: transparent;">ZaBaDeV</span>
 </h2>
-
-<h3 align="center">
-        I'm ZaBaDeV
-</h3>
-
-<p align="center">
-  <a href="https://github.com/ZaBaDeV"><img src="https://readme-typing-svg.herokuapp.com/?lines=Full%20Stack%20Developer;Public%20Servant%20in%20Spain;20+%20Years%20Experience;Always%20learning%20new%20things&center=true&width=450&height=45&font=monospaced&color=00ff00&center=true"></a>
-</p>
-
-<!-- Animated badge with wave effect -->
-<p align="center">
-    <img src="https://komarev.com/ghpvc/?username=ZaBaDeV&label=Profile%20views&color=0e75b6&style=flat" alt="ZaBaDeV" />
-    <img src="https://badges.peopzop.com/totalLines/ZaBaDeV.svg?theme=dark&label=Lines%20Written&width=200" />
-    <img src="https://badges.peopzop.com/tokens/ZaBaDeV.svg?theme=dark&label=Tokens%20Used&width=200" />
-</p>
-
-<!-- Animated decorative line -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/typewriter?color=auto&fontColor=FFFFFF&fontSize=100&height=1&text=Building%20the%20future%20one%20code%20at%20a%20time&width=100%25&font=monospaced" />
-</p>
-
-<br />
-
-<!-- Animated wave divider -->
-<img src="https://raw.githubusercontent.com/ZaBaDeV/ZaBaDeV/refs/heads/master/assets/wave.svg" width="100%" height="100" viewBox="0 0 1200 120" preserveAspectRatio="none" fill="#FFFFFF">
-<br>
-
-<!-- About Section -->
-# 💫 About me
-
-<p>
- <img align="right" width="350" src="https://raw.githubusercontent.com/NotStark/NotStark/main/Assests/programmer.gif" alt="Coding gif" />
-  
-¡Hola a todos! Soy **ZaBaDeV**, un funcionario público en España con más de 20 años de experiencia, formador de programación, apasionado por la tecnología y el desarrollo full stack. 
-
-✌️ &emsp; Disfruto programando y compartiendo conocimiento <br/><br/>
-❤️ &emsp; Me encanta escribir código y aprender nuevas tecnologías<br/><br/>
-🚀 &emsp; Busco combinar mi trayectoria en la administración pública con mis habilidades técnicas<br/><br/>
-💬 &emsp; Pregúntame lo que sea [aquí](https://github.com/ZaBaDeV/ZaBaDeV/issues)
-
-</p>
-
-<br/>
-<br/>
-
-<!-- Dynamic quote with random thoughts -->
-> 🌟 *"El código es poesía, y yo soy el poeta que escribe en 20+ lenguajes"* — ZaBaDeV
-
-<p align="center" style="font-size: 18px; color: #2c3e50;">
-<strong>¡Juntos podemos avanzar hacia un futuro tecnológico y lleno de posibilidades!</strong>
-</p>
-
-<br/>
-
-## 🌐 Contact me
-
-<p align="left">
-    <a href="https://instagram.com/ZaBaDeV">
-        <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram"/>
-    </a>
-    <a href="https://www.linkedin.com/in/juan-jose-zabala-rios-237a65116/">
-        <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-    </a>
-    <a href="https://www.youtube.com/@ZaBaDev-pn2yq/featured">
-        <img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white" alt="YouTube"/>
-    </a>
-    <a href="https://ko-fi.com/S6S515FZBZ">
-        <img src="https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white" alt="Ko-fi" />
-    </a>
-    <!-- New: Support badge -->
-    <a href="https://www.buymeacoffee.com/zabadev">
-        <img src="https://img.shields.io/badge/Buy%20Me%20A%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" alt="Buy Me a Coffee" />
-    </a>
-    <!-- New: Discord -->
-    <a href="https://discord.gg/zabadev">
-        <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" />
-    </a>
-</p>
-
-<!-- Animated divider -->
-<img src="https://raw.githubusercontent.com/ZaBaDeV/ZaBaDeV/refs/heads/master/assets/divider.png" width="100%">
-<br>
-
-## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Tech Stack</b>
-
-<br>
-
-<p align="center">
-
-- **Languages**: <br><br>
-    ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-    ![JavaScript](https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
-    ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
-    ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-    ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
-    ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
-    ![Solidity](https://img.shields.io/badge/Solidity-%23363636.svg?style=for-the-badge&logo=solidity&logoColor=white)
-
-- **Frontend Development**: <br><br>
-    ![HTML5](https://img.shields.io/badge/HTML5%20-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-    ![CSS3](https://img.shields.io/badge/CSS3%20-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-    ![React](https://img.shields.io/badge/React-61DAFB.svg?style=for-the-badge&logo=React&logoColor=black)
-    ![Next.js](https://img.shields.io/badge/Next.js-000000.svg?style=for-the-badge&logo=nextdotjs&logoColor=white)
-    ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white)
-    ![Vue.js](https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D)
-    ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
-    ![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-06B6D4.svg?style=for-the-badge&logo=Tailwind-CSS&logoColor=white)
-
-- **Backend Development**: <br><br>
-    ![Node.js](https://img.shields.io/badge/Node.js-339933.svg?style=for-the-badge&logo=nodedotjs&logoColor=white)
-    ![Express.js](https://img.shields.io/badge/Express%20JS-000000.svg?style=for-the-badge&logo=Express&logoColor=white)
-    ![NestJS](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white)
-    ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
-    ![Django REST](https://img.shields.io/badge/DJANGO-REST-ff1709.svg?style=for-the-badge&logo=django&logoColor=white)
-    ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white)
-    ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
-    ![.NET](https://img.shields.io/badge/.NET-5C2D91.svg?style=for-the-badge&logo=.net&logoColor=white)
-    ![GraphQL](https://img.shields.io/badge/-GraphQL-E10098.svg?style=for-the-badge&logo=graphql&logoColor=white)
-
-- **Mobile Development**: <br><br>
-    ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)
-    ![Android](https://img.shields.io/badge/android-%2320232a.svg?style=for-the-badge&logo=android&logoColor=%a4c639)
-
-- **Databases**: <br><br>
-    ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
-    ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
-    ![Microsoft SQL Server](https://img.shields.io/badge/Microsoft%20SQL%20Sever-CC2927.svg?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
-    ![Oracle](https://img.shields.io/badge/Oracle-F80000.svg?style=for-the-badge&logo=oracle&logoColor=white)
-
-- **Cloud & DevOps**: <br><br>
-    ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
-    ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white)
-    ![GitHub Pages](https://img.shields.io/badge/GitHub%20Pages-%23327FC7.svg?style=for-the-badge&logo=github&logoColor=white)
-
-- **Tools & Software**: <br><br>
-    ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-    ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-    ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-    ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white)
-    ![Apache Maven](https://img.shields.io/badge/Apache%20Maven-C71A36.svg?style=for-the-badge&logo=Apache%20Maven&logoColor=white)
-    ![Figma](https://img.shields.io/badge/Figma-F24E1E.svg?style=for-the-badge&logo=Figma&logoColor=white)
-    ![Notion](https://img.shields.io/badge/Notion-000000.svg?style=for-the-badge&logo=Notion&logoColor=white)
-
-- **Design Tools**: <br><br>
-    ![Adobe Photoshop](https://img.shields.io/badge/adobephotoshop-%23331A8FF.svg?style=for-the-badge&logo=adobephotoshop&logoColor=white)
-    ![Adobe Illustrator](https://img.shields.io/badge/adobeillustrator-%23FF9A00.svg?style=for-the-badge&logo=adobeillustrator&logoColor=white)
-    ![Adobe After Effects](https://img.shields.io/badge/Adobe%20After%20Effects-9999FF.svg?style=for-the-badge&logo=Adobe%20After%20Effects&logoColor=white)
-    ![Adobe XD](https://img.shields.io/badge/Adobe%20XD-470137.svg?style=for-the-badge&logo=Adobe%20XD&logoColor=#FF61F6)
-    ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
-    ![Framer](https://img.shields.io/badge/Framer-black.svg?style=for-the-badge&logo=framer&logoColor=blue)
-
-- **Game Development & Others**: <br><br>
-    ![Unity](https://img.shields.io/badge/Unity-%2320232a.svg?style=for-the-badge&logo=unity&logoColor=white)
-    ![p5.js](https://img.shields.io/badge/p5.js-ED225D.svg?style=for-the-badge&logo=p5.js&logoColor=FFFFFF)
-    ![Linux](https://img.shields.io/badge/Linux-FCC624.svg?style=for-the-badge&logo=linux&logoColor=black)
-    ![Markdown](https://img.shields.io/badge/Markdown-000000.svg?style=for-the-badge&logo=Markdown&logoColor=white)
-
-</p>
-
-<br>
-
-<!-- Animated divider -->
-<img src="https://raw.githubusercontent.com/ZaBaDeV/ZaBaDeV/refs/heads/master/assets/divider.png" width="100%">
-<br>
-
-## 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ZaBaDeV&theme=onedark&no-frame=false&no-bg=true&margin-w=4" alt="ZaBaDeV Trophies" />
-</p>
-
-<!-- New: Streak and activity section -->
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ZaBaDeV&bg_color=0d1117&color=58a6ff&line=58a6ff&point=ffffff&area=true&hide_border=false&custom_title=Contribution%20Graph" alt="Activity Graph" />
-</p>
-
-<!-- Animated divider -->
-<img src="https://raw.githubusercontent.com/ZaBaDeV/ZaBaDeV/refs/heads/master/assets/divider.png" width="100%">
-<br>
-
-## 📊 GitHub Stats
 
 <p align="center">
   <a href="https://github.com/ZaBaDeV">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=ZaBaDeV&theme=radical&border=7F3FBF&background=0D1117" alt="ZaBaDeV's GitHub streak"/>
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Full%20Stack%20Developer;Public%20Servant%20in%20Spain;20%2B%20Years%20Experience;Always%20learning%20new%20things;Building%20the%20future%20one%20commit%20at%20a%20time&center=true&width=620&height=52&font=monospaced&color=00ff88&background=0D1117&multiline=true&vCenter=true&size=28&weight=700">
+  </a>
+</p>
+
+<!-- Ultra animated badge row -->
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=ZaBaDeV&label=Profile%20Views&color=00ff88&style=for-the-badge&labelColor=0D1117" alt="Profile views" />
+  <img src="https://badges.peopzop.com/totalLines/ZaBaDeV.svg?theme=dark&label=Lines%20Written&width=220" />
+  <img src="https://badges.peopzop.com/tokens/ZaBaDeV.svg?theme=dark&label=Tokens%20Used&width=220" />
+  <img src="https://img.shields.io/github/followers/ZaBaDeV?label=Followers&style=for-the-badge&color=00b8ff&logo=github&logoColor=white" />
+</p>
+
+<!-- Epic typewriter banner -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/typewriter?color=gradient&fontColor=00ff88&fontSize=110&height=110&text=Building%20the%20future%20one%20code%20at%20a%20time&width=100%25&font=monospaced&weight=900" />
+</p>
+
+<!-- Animated wave divider - upgraded -->
+<img src="https://raw.githubusercontent.com/ZaBaDeV/ZaBaDeV/refs/heads/master/assets/wave.svg" width="100%" height="120" viewBox="0 0 1200 120" preserveAspectRatio="none" fill="#00ff88">
+
+<br>
+
+<!-- About Section - Enhanced with glow and better layout -->
+<h2 align="center">💫 About me</h2>
+
+<p align="center">
+  <img align="right" width="380" src="https://raw.githubusercontent.com/NotStark/NotStark/main/Assests/programmer.gif" alt="Coding gif" style="border-radius: 20px; box-shadow: 0 0 30px #00ff88;">
+</p>
+
+<p>
+¡Hola a todos! Soy <strong>ZaBaDeV</strong>, un funcionario público en España con más de 20 años de experiencia, formador de programación, apasionado por la tecnología y el desarrollo full stack.<br><br>
+✌️ &emsp; Disfruto programando y compartiendo conocimiento <br/><br/>
+❤️ &emsp; Me encanta escribir código y aprender nuevas tecnologías<br/><br/>
+🚀 &emsp; Busco combinar mi trayectoria en la administración pública con mis habilidades técnicas<br/><br/>
+💬 &emsp; Pregúntame lo que sea <a href="https://github.com/ZaBaDeV/ZaBaDeV/issues">aquí</a>
+</p>
+
+<br>
+
+<!-- Epic quote with glow -->
+<blockquote align="center" style="font-size: 1.4em; background: linear-gradient(90deg, #0D1117, #1A2A2A); border-left: 8px solid #00ff88; padding: 25px; border-radius: 15px; box-shadow: 0 0 25px #00ff88;">
+  🌟 <strong>"El código es poesía, y yo soy el poeta que escribe en 20+ lenguajes"</strong> — ZaBaDeV
+</blockquote>
+
+<p align="center" style="font-size: 22px; background: linear-gradient(90deg, #00ff88, #00b8ff); -webkit-background-clip: text; -webkit-text-fill-color: transparent; font-weight: 700;">
+  ¡Juntos podemos avanzar hacia un futuro tecnológico y lleno de posibilidades!
+</p>
+
+<br>
+
+<!-- Contact - Ultra modern badges -->
+<h2 align="center">🌐 Contact me</h2>
+<p align="center">
+  <a href="https://instagram.com/ZaBaDeV">
+    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram"/>
+  </a>
+  <a href="https://www.linkedin.com/in/juan-jose-zabala-rios-237a65116/">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="https://www.youtube.com/@ZaBaDev-pn2yq/featured">
+    <img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white" alt="YouTube"/>
+  </a>
+  <a href="https://ko-fi.com/S6S515FZBZ">
+    <img src="https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white" alt="Ko-fi" />
+  </a>
+  <a href="https://www.buymeacoffee.com/zabadev">
+    <img src="https://img.shields.io/badge/Buy%20Me%20A%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" alt="Buy Me a Coffee" />
+  </a>
+  <a href="https://discord.gg/zabadev">
+    <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" />
+  </a>
+</p>
+
+<!-- Premium animated divider -->
+<img src="https://raw.githubusercontent.com/ZaBaDeV/ZaBaDeV/refs/heads/master/assets/divider.png" width="100%">
+
+<br>
+
+<!-- Tech Stack - Now with glowing category headers -->
+<h2 align="center">
+  <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="32"> 
+  <strong>Tech Stack</strong>
+</h2>
+
+<p align="center"><strong>🔥 Languages</strong></p>
+<p align="center">
+  ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+  ![JavaScript](https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
+  ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+  ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+  ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
+  ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
+  ![Solidity](https://img.shields.io/badge/Solidity-%23363636.svg?style=for-the-badge&logo=solidity&logoColor=white)
+</p>
+
+<p align="center"><strong>🎨 Frontend Development</strong></p>
+<p align="center">
+  ![HTML5](https://img.shields.io/badge/HTML5%20-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+  ![CSS3](https://img.shields.io/badge/CSS3%20-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+  ![React](https://img.shields.io/badge/React-61DAFB.svg?style=for-the-badge&logo=React&logoColor=black)
+  ![Next.js](https://img.shields.io/badge/Next.js-000000.svg?style=for-the-badge&logo=nextdotjs&logoColor=white)
+  ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white)
+  ![Vue.js](https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D)
+  ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
+  ![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-06B6D4.svg?style=for-the-badge&logo=Tailwind-CSS&logoColor=white)
+</p>
+
+<p align="center"><strong>⚙️ Backend Development</strong></p>
+<p align="center">
+  ![Node.js](https://img.shields.io/badge/Node.js-339933.svg?style=for-the-badge&logo=nodedotjs&logoColor=white)
+  ![Express.js](https://img.shields.io/badge/Express%20JS-000000.svg?style=for-the-badge&logo=Express&logoColor=white)
+  ![NestJS](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white)
+  ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
+  ![Django REST](https://img.shields.io/badge/DJANGO-REST-ff1709.svg?style=for-the-badge&logo=django&logoColor=white)
+  ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white)
+  ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
+  ![.NET](https://img.shields.io/badge/.NET-5C2D91.svg?style=for-the-badge&logo=.net&logoColor=white)
+  ![GraphQL](https://img.shields.io/badge/-GraphQL-E10098.svg?style=for-the-badge&logo=graphql&logoColor=white)
+</p>
+
+<p align="center"><strong>📱 Mobile Development</strong></p>
+<p align="center">
+  ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)
+  ![Android](https://img.shields.io/badge/android-%2320232a.svg?style=for-the-badge&logo=android&logoColor=%a4c639)
+</p>
+
+<p align="center"><strong>🗄️ Databases</strong></p>
+<p align="center">
+  ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+  ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
+  ![Microsoft SQL Server](https://img.shields.io/badge/Microsoft%20SQL%20Sever-CC2927.svg?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
+  ![Oracle](https://img.shields.io/badge/Oracle-F80000.svg?style=for-the-badge&logo=oracle&logoColor=white)
+</p>
+
+<p align="center"><strong>☁️ Cloud & DevOps</strong></p>
+<p align="center">
+  ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
+  ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white)
+  ![GitHub Pages](https://img.shields.io/badge/GitHub%20Pages-%23327FC7.svg?style=for-the-badge&logo=github&logoColor=white)
+</p>
+
+<p align="center"><strong>🛠️ Tools & Software</strong></p>
+<p align="center">
+  ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+  ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+  ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+  ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white)
+  ![Apache Maven](https://img.shields.io/badge/Apache%20Maven-C71A36.svg?style=for-the-badge&logo=Apache%20Maven&logoColor=white)
+  ![Figma](https://img.shields.io/badge/Figma-F24E1E.svg?style=for-the-badge&logo=Figma&logoColor=white)
+  ![Notion](https://img.shields.io/badge/Notion-000000.svg?style=for-the-badge&logo=Notion&logoColor=white)
+</p>
+
+<p align="center"><strong>🎨 Design Tools</strong></p>
+<p align="center">
+  ![Adobe Photoshop](https://img.shields.io/badge/adobephotoshop-%23331A8FF.svg?style=for-the-badge&logo=adobephotoshop&logoColor=white)
+  ![Adobe Illustrator](https://img.shields.io/badge/adobeillustrator-%23FF9A00.svg?style=for-the-badge&logo=adobeillustrator&logoColor=white)
+  ![Adobe After Effects](https://img.shields.io/badge/Adobe%20After%20Effects-9999FF.svg?style=for-the-badge&logo=Adobe%20After%20Effects&logoColor=white)
+  ![Adobe XD](https://img.shields.io/badge/Adobe%20XD-470137.svg?style=for-the-badge&logo=Adobe%20XD&logoColor=#FF61F6)
+  ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
+  ![Framer](https://img.shields.io/badge/Framer-black.svg?style=for-the-badge&logo=framer&logoColor=blue)
+</p>
+
+<p align="center"><strong>🎮 Game Development & Others</strong></p>
+<p align="center">
+  ![Unity](https://img.shields.io/badge/Unity-%2320232a.svg?style=for-the-badge&logo=unity&logoColor=white)
+  ![p5.js](https://img.shields.io/badge/p5.js-ED225D.svg?style=for-the-badge&logo=p5.js&logoColor=FFFFFF)
+  ![Linux](https://img.shields.io/badge/Linux-FCC624.svg?style=for-the-badge&logo=linux&logoColor=black)
+  ![Markdown](https://img.shields.io/badge/Markdown-000000.svg?style=for-the-badge&logo=Markdown&logoColor=white)
+</p>
+
+<!-- Premium animated divider -->
+<img src="https://raw.githubusercontent.com/ZaBaDeV/ZaBaDeV/refs/heads/master/assets/divider.png" width="100%">
+
+<br>
+
+<!-- Trophies + Activity Graph -->
+<h2 align="center">🏆 GitHub Trophies</h2>
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=ZaBaDeV&theme=onedark&no-frame=false&no-bg=true&margin-w=4&row=2&column=4" alt="ZaBaDeV Trophies" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ZaBaDeV&bg_color=0d1117&color=00ff88&line=00b8ff&point=ffffff&area=true&hide_border=false&custom_title=Contribution%20Graph&title_color=00ff88" alt="Activity Graph" />
+</p>
+
+<!-- Streak & Stats - More spectacular layout -->
+<h2 align="center">📊 GitHub Stats</h2>
+<p align="center">
+  <a href="https://github.com/ZaBaDeV">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=ZaBaDeV&theme=radical&border=00ff88&background=0D1117&ring=00b8ff&fire=00ff88&currStreakNum=00ff88" alt="ZaBaDeV's GitHub streak"/>
   </a>
 </p>
 
@@ -209,57 +223,43 @@
   </a>
 </p>
 
-<!-- New: Extra stat cards -->
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ZaBaDeV&theme=radical" alt="Stats"/>
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ZaBaDeV&theme=radical&backgroundColor=0d1117" alt="Productive Time"/>
 </p>
 
-<!-- Animated divider -->
-<img src="https://raw.githubusercontent.com/ZaBaDeV/ZaBaDeV/refs/heads/master/assets/divider.png" width="100%">
+<p align="center">
+  <a href="https://github.com/ZaBaDeV"><img alt="ZaBaDeV's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=ZaBaDeV&show_icons=true&count_private=true&theme=react&border_color=00ff88&bg_color=0D1117&title_color=00ff88&icon_color=00b8ff" height="192px" width="49.5%"/></a>
+  <a href="https://github.com/ZaBaDeV"><img alt="ZaBaDeV's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=ZaBaDeV&langs_count=8&layout=compact&theme=react&border_color=00ff88&bg_color=0D1117&title_color=00ff88&icon_color=00b8ff" height="192px" width="49.5%"/></a>
+</p>
+
+<!-- Random Dev Quote - Bigger and centered -->
+<h2 align="center">✍️ Random Dev Quote</h2>
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quoteColor=00ff88" alt="Random Dev Quote" width="100%" />
+</p>
+
+<!-- Final epic footer -->
 <br>
-
-<a> 
-    <a href="https://github.com/ZaBaDeV"><img alt="ZaBaDeV's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=ZaBaDeV&show_icons=true&count_private=true&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/></a>
-  <a href="https://github.com/ZaBaDeV"><img alt="ZaBaDeV's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=ZaBaDeV&langs_count=8&layout=compact&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/></a>
-  <br/>
-</a>
-
-<!-- New: WakaTime Stats (requires API key) -->
-<!-- Sign up at https://wakatime.com and add your username below -->
-<!-- <p align="center">
-  <a href="https://github.com/ZaBaDeV">
-    <img src="https://github-readme-stats.vercel.app/api/wakatime?username=YOUR_WAKATIME_USERNAME&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="100%"/></a>
-</p> -->
-
-<!-- Animated divider -->
 <img src="https://raw.githubusercontent.com/ZaBaDeV/ZaBaDeV/refs/heads/master/assets/divider.png" width="100%">
-<br>
-
-## ✍️ Random Dev Quote
 
 <p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" alt="Random Dev Quote" />
-</p>
-
----
-
-<!-- New: Footer with animated stars -->
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=ZaBaDeV&label=thanks%20for%20visiting&color=ff6b6b&style=flat" />
+  <img src="https://komarev.com/ghpvc/?username=ZaBaDeV&label=thanks%20for%20visiting&color=00ff88&style=flat&labelColor=0D1117" />
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Thanks%20for%20visiting!;Let's%20code%20together!;See%20you%20next%20time!&center=true&width=400&height=40&font=monospaced&color=00ff00" />
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Thanks%20for%20visiting!;Let's%20code%20together!;See%20you%20next%20time!;Keep%20pushing%20the%20limits!&center=true&width=520&height=50&font=monospaced&color=00ff88&background=0D1117&weight=700" />
 </p>
-
----
 
 <p align="center">
-Made with ❤️ by ZaBaDeV
+  Made with ❤️ by ZaBaDeV
 </p>
 
-<!-- Animated signature -->
+<!-- Final signature with extra flair -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/heart?color=auto&fontSize=30&height=60&text=Keep%20Coding%20Stay%20Awesome&width=100%25&font=yusei" />
+  <img src="https://capsule-render.vercel.app/heart?color=gradient&fontSize=34&height=80&text=Keep%20Coding%20Stay%20Awesome&width=100%25&font=yusei" />
 </p>
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=wave&color=gradient&height=60&section=footer&text=ZaBaDeV%20%7C%202026&fontSize=22" width="100%">
+</div>
