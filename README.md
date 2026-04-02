@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="./assets/LogoOct2024.gif" width="680" style="filter: drop-shadow(0 0 25px #00ff88);">
+  <img src="./assets/LogoOct2024.gif" width="460" style="filter: drop-shadow(0 0 25px #00ff88);">
   
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ZaBaDeV/ZaBaDeV/output/github-contribution-grid-snake-dark.svg">
