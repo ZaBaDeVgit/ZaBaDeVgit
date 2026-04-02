@@ -22,8 +22,7 @@
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=ZaBaDeV&label=Profile%20Views&color=00ff88&style=for-the-badge&labelColor=0D1117" alt="Profile views" />
-  <img src="https://badges.peopzop.com/totalLines/ZaBaDeV.svg?theme=dark&label=Lines%20Written&width=220" />
-  <img src="https://badges.peopzop.com/tokens/ZaBaDeV.svg?theme=dark&label=Tokens%20Used&width=220" />
+
   <img src="https://img.shields.io/github/followers/ZaBaDeV?label=Followers&style=for-the-badge&color=00b8ff&logo=github&logoColor=white" />
 </p>
 
@@ -32,8 +31,6 @@
 </p>
 
 
-
-<br>
 
 <h2 align="center">💫 About me</h2>
 
