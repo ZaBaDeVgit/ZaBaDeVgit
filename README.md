@@ -31,7 +31,7 @@
   <img src="https://capsule-render.vercel.app/typewriter?color=gradient&fontColor=00ff88&fontSize=110&height=110&text=Building%20the%20future%20one%20code%20at%20a%20time&width=100%25&font=monospaced&weight=900" />
 </p>
 
-<img src="./assets/wave.svg" width="100%" height="120" viewBox="0 0 1200 120" preserveAspectRatio="none" fill="#00ff88">
+
 
 <br>
 
