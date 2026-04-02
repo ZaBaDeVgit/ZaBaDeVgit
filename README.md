@@ -1,8 +1,6 @@
 <div align="center">
-  <!-- Logo desde tu repo de recursos -->
-  <img src="https://raw.githubusercontent.com/ZaBaDeVgit/My_Media_Resources/main/assets/LogoOct2024.gif" width="680" style="filter: drop-shadow(0 0 25px #00ff88);">
+  <img src="./assets/LogoOct2024.gif" width="680" style="filter: drop-shadow(0 0 25px #00ff88);">
   
-  <!-- Snake contribution -->
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ZaBaDeV/ZaBaDeV/output/github-contribution-grid-snake-dark.svg">
     <img src="https://raw.githubusercontent.com/ZaBaDeV/ZaBaDeV/output/github-contribution-grid-snake.svg" width="100%" style="filter: drop-shadow(0 0 15px #00ff88);">
@@ -38,15 +36,14 @@
   <img src="https://capsule-render.vercel.app/typewriter?color=gradient&fontColor=00ff88&fontSize=110&height=110&text=Building%20the%20future%20one%20code%20at%20a%20time&width=100%25&font=monospaced&weight=900" />
 </p>
 
-<!-- Wave desde tu repo -->
-<img src="https://raw.githubusercontent.com/ZaBaDeVgit/My_Media_Resources/main/assets/wave.svg" width="100%" height="120" viewBox="0 0 1200 120" preserveAspectRatio="none" fill="#00ff88">
+<img src="./assets/wave.svg" width="100%" height="120" viewBox="0 0 1200 120" preserveAspectRatio="none" fill="#00ff88">
 
 <br>
 
 <h2 align="center">💫 About me</h2>
 
 <p align="center">
-  <img align="right" width="380" src="https://raw.githubusercontent.com/ZaBaDeVgit/My_Media_Resources/main/assets/programmer.gif" alt="Coding gif" style="border-radius: 20px; box-shadow: 0 0 30px #00ff88;">
+  <img align="right" width="380" src="./assets/programmer.gif" alt="Coding gif" style="border-radius: 20px; box-shadow: 0 0 30px #00ff88;">
 </p>
 
 <p>
@@ -79,13 +76,12 @@
   <a href="https://discord.gg/zabadev"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
 </p>
 
-<img src="https://raw.githubusercontent.com/ZaBaDeVgit/My_Media_Resources/main/assets/divider.png" width="100%">
+<img src="./assets/divider.png" width="100%">
 
 <br>
 
-<!-- TECH STACK CON ICONOS GRANDES -->
 <h2 align="center">
-  <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="32"> 
+  <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="32"> 
   <strong>Tech Stack</strong>
 </h2>
 
@@ -175,11 +171,9 @@
   <img src="https://img.shields.io/badge/Markdown-000000.svg?style=for-the-badge&logo=Markdown&logoColor=white" width="115" alt="Markdown" />
 </p>
 
-<img src="https://raw.githubusercontent.com/ZaBaDeVgit/My_Media_Resources/main/assets/divider.png" width="100%">
+<img src="./assets/divider.png" width="100%">
 
 <br>
-
-<!-- El resto del README (Trophies, Stats, Quote, Footer) se mantiene igual que antes -->
 
 <h2 align="center">🏆 GitHub Trophies</h2>
 <p align="center">
@@ -191,11 +185,31 @@
 </p>
 
 <h2 align="center">📊 GitHub Stats</h2>
-<!-- ... (mantén el resto de stats igual que en la versión anterior) ... -->
+<p align="center">
+  <a href="https://github.com/ZaBaDeV"><img src="https://github-readme-streak-stats.herokuapp.com/?user=ZaBaDeV&theme=radical&border=00ff88&background=0D1117&ring=00b8ff&fire=00ff88&currStreakNum=00ff88" alt="Streak"/></a>
+</p>
 
-<!-- Final footer -->
+<p align="center">
+  <a href="https://github.com/ZaBaDeV"><img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ZaBaDeV&theme=radical" alt="Contribution"/></a>
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ZaBaDeV&theme=radical" alt="Stats"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ZaBaDeV&theme=radical&backgroundColor=0d1117" alt="Productive Time"/>
+</p>
+
+<p align="center">
+  <a href="https://github.com/ZaBaDeV"><img alt="Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=ZaBaDeV&show_icons=true&count_private=true&theme=react&border_color=00ff88&bg_color=0D1117&title_color=00ff88&icon_color=00b8ff" height="192px" width="49.5%"/></a>
+  <a href="https://github.com/ZaBaDeV"><img alt="Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=ZaBaDeV&langs_count=8&layout=compact&theme=react&border_color=00ff88&bg_color=0D1117&title_color=00ff88&icon_color=00b8ff" height="192px" width="49.5%"/></a>
+</p>
+
+<h2 align="center">✍️ Random Dev Quote</h2>
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quoteColor=00ff88" alt="Random Dev Quote" width="100%" />
+</p>
+
 <br>
-<img src="https://raw.githubusercontent.com/ZaBaDeVgit/My_Media_Resources/main/assets/divider.png" width="100%">
+<img src="./assets/divider.png" width="100%">
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=ZaBaDeV&label=thanks%20for%20visiting&color=00ff88&style=flat&labelColor=0D1117" />
