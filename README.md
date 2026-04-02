@@ -204,7 +204,7 @@
 </p>
 
 <br>
-<img src="./assets/divider.png" width="100%">
+
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=ZaBaDeV&label=thanks%20for%20visiting&color=00ff88&style=flat&labelColor=0D1117" />
