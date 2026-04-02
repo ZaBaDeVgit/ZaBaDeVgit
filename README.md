@@ -166,7 +166,7 @@
   <img src="https://img.shields.io/badge/Markdown-000000.svg?style=for-the-badge&logo=Markdown&logoColor=white" width="115" alt="Markdown" />
 </p>
 
-<img src="./assets/divider.png" width="100%">
+
 
 <br>
 
