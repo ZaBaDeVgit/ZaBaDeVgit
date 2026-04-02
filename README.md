@@ -1,12 +1,7 @@
 <div align="center">
   <img src="./assets/LogoOct2024.gif" width="460" style="filter: drop-shadow(0 0 25px #00ff88);">
   
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ZaBaDeV/ZaBaDeV/output/github-contribution-grid-snake-dark.svg">
-    <img src="https://raw.githubusercontent.com/ZaBaDeV/ZaBaDeV/output/github-contribution-grid-snake.svg" width="100%" style="filter: drop-shadow(0 0 15px #00ff88);">
-  </picture>
-
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColor=00ff88,00b8ff&height=4&width=100%&text=&section=header" width="100%">
+   <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColor=00ff88,00b8ff&height=4&width=100%&text=&section=header" width="100%">
 </div>
 
 <h1 align="center">
